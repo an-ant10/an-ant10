@@ -4,25 +4,10 @@
 🌟 About Me
 🎓 B.Tech CSE | Amity University | Expected Graduation: 2026
 
-💻 Software Development Intern @ Vertex InfoSoft Pvt
+💻 24' Summer Software Development Intern @ Vertex Infosoft Pvt
 
-🔬 Currently working on Real-Time Window Upscale & Frame Interpolation and OCR Live Window Translate projects.
+🌍 Exploring AI Technologies.
 
-🌍 Exploring Cloud Technologies (AWS, Google Cloud) and AI-powered applications.
-
-🚀 Projects
-📌 Real-Time Window Upscale & Frame Interpolation
-🔹 Working on real-time video upscaling and frame interpolation using Python & OpenCV.
-🔹 Implementing machine learning models to enhance video quality and achieve smoother motion.
-🔹 Utilizing AMD Frame Gen API for advanced frame generation techniques.
-
-📌 OCR Live Window Translate
-🔹 Developing a real-time OCR-based translation tool to overlay translated text in live applications.
-🔹 Implementing text detection & translation functionalities to improve accessibility and user experience.
-
-📌 YouTube Video Summarizer
-🔹 Built an AI-driven tool to summarize YouTube videos by extracting and processing transcripts.
-🔹 Integrated speech-to-text & NLP-based text-ranking algorithms to generate concise summaries.
 
 🛠️ Technical Skills
 Programming: C++, C#, Python
